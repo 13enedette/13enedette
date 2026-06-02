@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @13enedette
-- 👀 I’m interested in everything software development 
-- 🌱 I’m currently learning c#
-- 💞️ I’m looking to collaborate
-- 📫 How to reach me LinkedIn https://www.linkedin.com/in/christa-marianne-399250306
-- 😄 Pronouns: she/her
+-  Hi, I’m benedette
+-  I’m interested in anything software development 
+-  I’m currently learning c# (i think)
+  
+- 📫 How to reach me - LinkedIn https://www.linkedin.com/in/christa-marianne-399250306
+-  Pronouns: she/her
 
+ okay, byee!
 
 <!---
 13enedette/13enedette is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
